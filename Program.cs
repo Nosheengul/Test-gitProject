@@ -11,6 +11,6 @@ namespace gitProject
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, modified");
-        }
+          Console.WriteLine("Hello, modified again outside");        }
     }
 }
